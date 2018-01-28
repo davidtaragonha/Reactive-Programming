@@ -1,4 +1,4 @@
-package com.alonso.reactiveprogramming.subscriber;
+package com.alonso.reactiveprogramming;
 
 import io.reactivex.Observable;
 import io.reactivex.schedulers.Schedulers;

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfb4df95-9a87-430d-b6a4-c2c35a31c8fb" name="Default" comment="" />
+    <list default="true" id="cfb4df95-9a87-430d-b6a4-c2c35a31c8fb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/subscriber/src/main/java/com/alonso/reactiveprogramming/EventBus.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/225dc3e2ae4932207d025c14d0781e08ead7e90d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ed7985c894a565c0b6696adc4c40e44bd24f233" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbb7d901a11543d5b1ed02f8a9a17d180481bdab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java" afterPath="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java" />
+      <change beforePath="$PROJECT_DIR$/subscriber/target/test-classes/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/subscriber/target/test-classes/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/subscriber/target/" />
@@ -13,24 +25,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SubscriberExecution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java">
+        <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="506">
               <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubjectExecutio.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.java">
+      <file leaf-file-name="SubjectExecution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="14">
+              <caret line="60" column="66" lean-forward="true" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,6 +72,11 @@
         <option value="$PROJECT_DIR$/subscriber/pom.xml" />
         <option value="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java" />
         <option value="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.java" />
+        <option value="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.java" />
+        <option value="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecutio.java" />
+        <option value="$PROJECT_DIR$/subscriber/src/main/java/com/alonso/reactiveprogramming/EventBus.java" />
+        <option value="$PROJECT_DIR$/subscriber/pom.xml" />
+        <option value="$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java" />
       </list>
     </option>
   </component>
@@ -92,9 +107,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,6 +141,23 @@
               <item name="Reactive_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="subscriber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactiveprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reactive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="subscriber" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reactiveprogramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactiveprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reactive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="subscriber" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -142,13 +175,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="subscriber" type="462c0819:PsiDirectoryNode" />
+              <item name="reactiveprogramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SubjectExecutio.name">
+  <component name="RunManager" selected="JUnit.SubjectExecution.eventBus_subscriber_computation_multithread_publish">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -190,18 +222,68 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="SubjectExecutio.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubjectExecution.eventBus_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alonso.reactiveprogramming.subscriber.*" />
+          <option name="PATTERN" value="com.alonso.reactiveprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="subscriber" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming.subscriber" />
-      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.subscriber.SubjectExecutio" />
+      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.SubjectExecution" />
+      <option name="METHOD_NAME" value="eventBus_" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SubjectExecution.eventBus_subscriber_computation_multithread_publish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alonso.reactiveprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="subscriber" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.SubjectExecution" />
+      <option name="METHOD_NAME" value="eventBus_subscriber_computation_multithread_publish" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SubjectExecution.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alonso.reactiveprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="subscriber" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.SubjectExecution" />
       <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -215,19 +297,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SubscriberExecution.one_subscriber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubjectExecution.name2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alonso.reactiveprogramming.subscriber.*" />
+          <option name="PATTERN" value="com.alonso.reactiveprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="subscriber" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming.subscriber" />
-      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.subscriber.SubscriberExecution" />
-      <option name="METHOD_NAME" value="one_subscriber" />
+      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.SubjectExecution" />
+      <option name="METHOD_NAME" value="name2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -240,69 +322,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SubscriberExecution.test_Subscriber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubjectExecution.replaySubject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alonso.reactiveprogramming.subscriber.*" />
+          <option name="PATTERN" value="com.alonso.reactiveprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="subscriber" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming.subscriber" />
-      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.subscriber.SubscriberExecution" />
-      <option name="METHOD_NAME" value="test_Subscriber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SubscriberExecution.two_subscribers_computation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.alonso.reactiveprogramming.subscriber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="subscriber" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming.subscriber" />
-      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.subscriber.SubscriberExecution" />
-      <option name="METHOD_NAME" value="two_subscribers_computation" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SubscriberExecution.two_subscribers_main222" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.alonso.reactiveprogramming.subscriber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="subscriber" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming.subscriber" />
-      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.subscriber.SubscriberExecution" />
-      <option name="METHOD_NAME" value="two_subscribers_main222" />
+      <option name="PACKAGE_NAME" value="com.alonso.reactiveprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.alonso.reactiveprogramming.SubjectExecution" />
+      <option name="METHOD_NAME" value="replaySubject" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -376,19 +408,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.test_Subscriber" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.one_subscriber" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.two_subscribers_main222" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.two_subscribers_computation" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SubjectExecutio.name" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SubjectExecution.name" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SubjectExecution.name2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SubjectExecution.replaySubject" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SubjectExecution.eventBus_" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SubjectExecution.eventBus_subscriber_computation_multithread_publish" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SubjectExecutio.name" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.two_subscribers_computation" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.two_subscribers_main222" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.one_subscriber" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SubscriberExecution.test_Subscriber" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SubjectExecution.eventBus_subscriber_computation_multithread_publish" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SubjectExecution.eventBus_" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SubjectExecution.replaySubject" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SubjectExecution.name2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SubjectExecution.name" />
       </list>
     </recent_temporary>
   </component>
@@ -414,68 +446,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 45m 40s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_eventBus_ - 2018.01.28 at 11h 24m 52s.xml">
+      <configuration name="SubjectExecution.eventBus_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 46m 18s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_eventBus_subscriber_computation_multithread_publish - 2018.01.28 at 11h 25m 33s.xml">
+      <configuration name="SubjectExecution.eventBus_subscriber_computation_multithread_publish" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 46m 29s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name - 2018.01.28 at 10h 51m 07s.xml">
+      <configuration name="SubjectExecution.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 47m 39s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name - 2018.01.28 at 10h 56m 07s.xml">
+      <configuration name="SubjectExecution.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 50m 20s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name - 2018.01.28 at 10h 57m 06s.xml">
+      <configuration name="SubjectExecution.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 51m 39s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name - 2018.01.28 at 10h 57m 58s.xml">
+      <configuration name="SubjectExecution.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 52m 23s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name2 - 2018.01.28 at 11h 01m 02s.xml">
+      <configuration name="SubjectExecution.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 52m 38s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_name2 - 2018.01.28 at 11h 19m 16s.xml">
+      <configuration name="SubjectExecution.name2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubjectExecutio_name - 2018.01.27 at 13h 52m 54s.xml">
-      <configuration name="SubjectExecutio.name" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_replaySubject - 2018.01.28 at 11h 22m 55s.xml">
+      <configuration name="SubjectExecution.replaySubject" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SubscriberExecution_two_subscribers_computation - 2018.01.27 at 13h 32m 50s.xml">
-      <configuration name="SubscriberExecution.two_subscribers_computation" configurationId="JUnit" />
+    <history-entry file="SubjectExecution_replaySubject - 2018.01.28 at 11h 23m 13s.xml">
+      <configuration name="SubjectExecution.replaySubject" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32441473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -485,31 +518,75 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java</url>
+          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java</url>
           <line>69</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java</url>
+          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java</url>
+          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java</url>
           <line>50</line>
           <properties class="com.alonso.reactiveprogramming.subscriber.SubscriberExecution" method="two_subscribers_computation">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java</url>
+          <line>26</line>
+          <properties class="com.alonso.reactiveprogramming.SubjectExecution" method="replaySubject">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="66" lean-forward="false" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -518,19 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriber/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.9/rxjava-2.1.9.jar!/io/reactivex/internal/functions/Functions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="44" column="78" lean-forward="false" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -546,10 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="1141" column="0" lean-forward="false" selection-start-line="1141" selection-start-column="0" selection-end-line="1141" selection-end-column="0" />
-          <folding>
-            <element signature="e#25063#25064#0" expanded="false" />
-            <element signature="e#25102#25103#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,11 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
-            <element signature="e#1983#1984#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#1500#1501#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,35 +670,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.9/rxjava-2.1.9.jar!/io/reactivex/Observable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="2664" column="31" lean-forward="false" selection-start-line="2664" selection-start-column="31" selection-end-line="2664" selection-end-column="31" />
-          <folding>
-            <element signature="e#131301#131302#0" expanded="true" />
-            <element signature="e#131349#131350#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="1923" column="31" lean-forward="false" selection-start-line="1923" selection-start-column="31" selection-end-line="1923" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubscriberExecution.java">
+    <entry file="file://$PROJECT_DIR$/subscriber/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        <state relative-caret-position="381">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber/src/main/java/com/alonso/reactiveprogramming/EventBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/subscriber/SubjectExecutio.java">
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubscriberExecution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        <state relative-caret-position="506">
+          <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber/src/test/java/com/alonso/reactiveprogramming/SubjectExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="60" column="66" lean-forward="true" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
