@@ -65,19 +65,18 @@ public class SubjectExecution {
 
         CompletableFuture.runAsync(()->
                 {
-                    eventBus.publish("event1");
-                    eventBus.publish("event2");
-                    eventBus.publish("event3");
-                    System.out.println(Thread.currentThread().getName());
+                    eventBus.publish("Aevent1");
+                    eventBus.publish("Aevent2");
+                    eventBus.publish("Aevent3");
+                    System.out.println("A finished of publish ->"+Thread.currentThread().getName());
                 }
         );
 
         CompletableFuture.runAsync(()->
                 {
-                    eventBus.publish("event4");
-                    eventBus.publish("event5");
-                    eventBus.publish("event6");
-                    System.out.println(Thread.currentThread().getName());
+                    eventBus.publish("Bevent1");
+                    eventBus.publish("Bevent2");
+                    System.out.println("B finished of publish ->"+Thread.currentThread().getName());
                 }
         );
 

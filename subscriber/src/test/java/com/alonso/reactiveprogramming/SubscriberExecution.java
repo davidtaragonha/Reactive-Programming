@@ -69,4 +69,29 @@ public class SubscriberExecution {
 
         Thread.sleep(5000);
     }
+
+
+
+
+    @Test
+    public void name() throws Exception {
+        Observable<Integer> observableInts = Observable.just(1,2,3,4);
+
+        observableInts = observableInts
+                .subscribeOn(Schedulers.computation());
+
+        observableInts.subscribe(integer ->
+        {
+            System.out.println(integer+3);
+            System.out.println("subscriber -> Thread Name:"+Thread.currentThread().getName());
+        });
+
+        observableInts.subscribe(integer ->
+        {
+            System.out.println(integer+3);
+            System.out.println("subscriber -> Thread Name:"+Thread.currentThread().getName());
+        });
+
+        Thread.sleep(5000);
+    }
 }

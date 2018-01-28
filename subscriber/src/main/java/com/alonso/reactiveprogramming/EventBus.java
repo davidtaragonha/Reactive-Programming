@@ -2,14 +2,13 @@ package com.alonso.reactiveprogramming;
 
 import io.reactivex.Observable;
 import io.reactivex.subjects.PublishSubject;
-
-import static io.reactivex.subjects.PublishSubject.*;
+import io.reactivex.subjects.Subject;
 
 public class EventBus {
-    private final PublishSubject<String> publishSubject;
+    private final Subject<String> publishSubject;
 
     public EventBus() {
-        this.publishSubject = create();
+        this.publishSubject = PublishSubject.<String>create().toSerialized();
     }
 
     public Observable<String> getSubscriber(){
